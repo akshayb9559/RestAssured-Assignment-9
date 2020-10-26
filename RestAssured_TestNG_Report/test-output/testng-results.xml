@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4233" started-at="2020-10-26T21:12:44Z" finished-at="2020-10-26T21:12:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4233" started-at="2020-10-26T21:12:44Z" finished-at="2020-10-26T21:12:48Z">
+      <class name="stepDefinitions.TestNG_Report_Runner">
+        <test-method status="PASS" signature="api_for_foreign_exchange()[pri:0, instance:stepDefinitions.TestNG_Report_Runner@5f2108b5]" name="api_for_foreign_exchange" duration-ms="934" started-at="2020-10-26T21:12:44Z" finished-at="2020-10-26T21:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- api_for_foreign_exchange -->
+        <test-method status="PASS" signature="posted_with_correct_information(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.TestNG_Report_Runner@5f2108b5]" name="posted_with_correct_information" duration-ms="2783" started-at="2020-10-26T21:12:45Z" data-provider="Date" finished-at="2020-10-26T21:12:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2025]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[06]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_correct_information -->
+        <test-method status="PASS" signature="posted_with_correct_information(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:stepDefinitions.TestNG_Report_Runner@5f2108b5]" name="posted_with_correct_information" duration-ms="446" started-at="2020-10-26T21:12:48Z" data-provider="Date" finished-at="2020-10-26T21:12:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1999]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[08]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[08]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- posted_with_correct_information -->
+        <test-method status="PASS" signature="validate_positive_response_code_received()[pri:0, instance:stepDefinitions.TestNG_Report_Runner@5f2108b5]" name="validate_positive_response_code_received" duration-ms="10" started-at="2020-10-26T21:12:48Z" finished-at="2020-10-26T21:12:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validate_positive_response_code_received -->
+      </class> <!-- stepDefinitions.TestNG_Report_Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
